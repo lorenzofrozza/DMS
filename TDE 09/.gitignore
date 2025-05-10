@@ -1,0 +1,21 @@
+# Flutter/Dart related
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+generated_plugin_registrant.dart
+
+# Android related
+android/.gradle/
+android/build/
+android/app/build/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# Others
+pubspec.lock
+*.log
